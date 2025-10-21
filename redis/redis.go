@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"franco/log"
+	"github.com/xanderxampp-be/franco/log"
 
 	"github.com/go-redis/redis"
 )

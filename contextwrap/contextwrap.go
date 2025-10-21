@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"franco/dto/response"
-	"franco/log/entity"
+	"github.com/xanderxampp-be/franco/dto/response"
+	"github.com/xanderxampp-be/franco/log/entity"
 )
 
 func GetFinancialFlagFromContext(ctx context.Context) bool {

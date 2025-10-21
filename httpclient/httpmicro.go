@@ -13,10 +13,10 @@ import (
 	"strconv"
 	"time"
 
-	"franco/contextwrap"
-	"franco/log"
-	"franco/log/entity"
-	"franco/trace"
+	"github.com/xanderxampp-be/franco/contextwrap"
+	"github.com/xanderxampp-be/franco/log"
+	"github.com/xanderxampp-be/franco/log/entity"
+	"github.com/xanderxampp-be/franco/trace"
 
 	"go.elastic.co/apm/module/apmhttp"
 )

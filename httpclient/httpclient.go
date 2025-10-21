@@ -9,9 +9,9 @@ import (
 	"net/url"
 	"time"
 
-	"franco/contextwrap"
-	"franco/log"
-	"franco/trace"
+	"github.com/xanderxampp-be/franco/contextwrap"
+	"github.com/xanderxampp-be/franco/log"
+	"github.com/xanderxampp-be/franco/trace"
 
 	"go.elastic.co/apm/module/apmhttp"
 )

@@ -10,7 +10,7 @@ import (
 
 	"strconv"
 
-	"franco/log/entity"
+	"github.com/xanderxampp-be/franco/log/entity"
 
 	"github.com/sirupsen/logrus"
 )

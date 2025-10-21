@@ -1,4 +1,4 @@
-module franco
+module github.com/xanderxampp-be/franco
 
 go 1.23.2
 

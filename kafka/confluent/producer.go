@@ -4,9 +4,9 @@ import (
 	"context"
 	"encoding/json"
 
-	"franco/contextwrap"
-	"franco/log"
-	"franco/trace"
+	"github.com/xanderxampp-be/franco/contextwrap"
+	"github.com/xanderxampp-be/franco/log"
+	"github.com/xanderxampp-be/franco/trace"
 
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 	"go.elastic.co/apm"

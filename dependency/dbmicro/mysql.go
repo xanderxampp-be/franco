@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"franco/log"
+	"github.com/xanderxampp-be/franco/log"
 
 	"github.com/go-sql-driver/mysql"
 	_ "github.com/go-sql-driver/mysql"

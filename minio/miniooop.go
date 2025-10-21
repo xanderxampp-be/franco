@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"time"
 
-	"franco/contextwrap"
-	"franco/trace"
+	"github.com/xanderxampp-be/franco/contextwrap"
+	"github.com/xanderxampp-be/franco/trace"
 
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"

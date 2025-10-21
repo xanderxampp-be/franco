@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"franco/contextwrap"
-	"franco/trace"
+	"github.com/xanderxampp-be/franco/contextwrap"
+	"github.com/xanderxampp-be/franco/trace"
 )
 
 type DBmicro struct {

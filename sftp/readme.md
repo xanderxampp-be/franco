@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	sftpbrimo "franco/sftp"
+	sftpbrimo "github.com/xanderxampp-be/franco/sftp"
 )
 
 func main() {

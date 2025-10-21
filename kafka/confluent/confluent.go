@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"franco/contextwrap"
-	"franco/trace"
+	"github.com/xanderxampp-be/franco/contextwrap"
+	"github.com/xanderxampp-be/franco/trace"
 
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 	"go.elastic.co/apm"
